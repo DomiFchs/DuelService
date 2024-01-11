@@ -1,0 +1,15 @@
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\PlayerStatisticsDomain\bin\Debug\net7.0\PlayerStatisticsDomain.deps.json
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\PlayerStatisticsDomain\bin\Debug\net7.0\PlayerStatisticsDomain.dll
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\PlayerStatisticsDomain\bin\Debug\net7.0\PlayerStatisticsDomain.pdb
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\PlayerStatisticsDomain\bin\Debug\net7.0\PlayerStatisticsModel.dll
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\PlayerStatisticsDomain\bin\Debug\net7.0\PlayerStatisticsModel.pdb
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\PlayerStatisticsDomain\obj\Debug\net7.0\PlayerStatisticsDomain.csproj.AssemblyReference.cache
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\PlayerStatisticsDomain\obj\Debug\net7.0\PlayerStatisticsDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\PlayerStatisticsDomain\obj\Debug\net7.0\PlayerStatisticsDomain.AssemblyInfoInputs.cache
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\PlayerStatisticsDomain\obj\Debug\net7.0\PlayerStatisticsDomain.AssemblyInfo.cs
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\PlayerStatisticsDomain\obj\Debug\net7.0\PlayerStatisticsDomain.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\PlayerStatisticsDomain\obj\Debug\net7.0\PlayerStatisticsDomain.csproj.CopyComplete
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\PlayerStatisticsDomain\obj\Debug\net7.0\PlayerStatisticsDomain.dll
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\PlayerStatisticsDomain\obj\Debug\net7.0\refint\PlayerStatisticsDomain.dll
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\PlayerStatisticsDomain\obj\Debug\net7.0\PlayerStatisticsDomain.pdb
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\PlayerStatisticsDomain\obj\Debug\net7.0\ref\PlayerStatisticsDomain.dll

@@ -1,0 +1,17 @@
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\bin\Debug\net7.0\DtoLibrary.deps.json
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\bin\Debug\net7.0\DtoLibrary.dll
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\bin\Debug\net7.0\DtoLibrary.pdb
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\bin\Debug\net7.0\PlayerStatisticsModel.dll
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\bin\Debug\net7.0\RegistrationModel.dll
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\bin\Debug\net7.0\PlayerStatisticsModel.pdb
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\bin\Debug\net7.0\RegistrationModel.pdb
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\obj\Debug\net7.0\DtoLibrary.csproj.AssemblyReference.cache
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\obj\Debug\net7.0\DtoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\obj\Debug\net7.0\DtoLibrary.AssemblyInfoInputs.cache
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\obj\Debug\net7.0\DtoLibrary.AssemblyInfo.cs
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\obj\Debug\net7.0\DtoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\obj\Debug\net7.0\DtoLibrary.csproj.CopyComplete
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\obj\Debug\net7.0\DtoLibrary.dll
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\obj\Debug\net7.0\refint\DtoLibrary.dll
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\obj\Debug\net7.0\DtoLibrary.pdb
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\DtoLibrary\obj\Debug\net7.0\ref\DtoLibrary.dll

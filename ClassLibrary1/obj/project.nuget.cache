@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L4QsRMm5j6keE5C9GGdtxFIOaVs2PeRQ4uLlI+0zQwgqGK7o7OfU+Gvgs8ZR01iwFwPt0kx45+3sQHj6yhLAMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dominik\\Desktop\\Schule\\SEW\\5AHIT\\DuelService\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dominik\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Dominik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Dominik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\bin\Debug\net7.0\RegistrationDomain.deps.json
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\bin\Debug\net7.0\RegistrationDomain.dll
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\bin\Debug\net7.0\RegistrationDomain.pdb
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\bin\Debug\net7.0\PlayerStatisticsModel.dll
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\bin\Debug\net7.0\RegistrationModel.dll
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\bin\Debug\net7.0\RegistrationModel.pdb
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\bin\Debug\net7.0\PlayerStatisticsModel.pdb
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\obj\Debug\net7.0\RegistrationDomain.csproj.AssemblyReference.cache
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\obj\Debug\net7.0\RegistrationDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\obj\Debug\net7.0\RegistrationDomain.AssemblyInfoInputs.cache
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\obj\Debug\net7.0\RegistrationDomain.AssemblyInfo.cs
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\obj\Debug\net7.0\RegistrationDomain.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\obj\Debug\net7.0\RegistrationDomain.csproj.CopyComplete
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\obj\Debug\net7.0\RegistrationDomain.dll
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\obj\Debug\net7.0\refint\RegistrationDomain.dll
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\obj\Debug\net7.0\RegistrationDomain.pdb
+C:\Users\Dominik\Desktop\Schule\SEW\5AHIT\DuelService\RegistrationDomain\obj\Debug\net7.0\ref\RegistrationDomain.dll
